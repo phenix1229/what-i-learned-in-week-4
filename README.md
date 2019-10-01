@@ -21,3 +21,5 @@ I learned what booleans are (true, false), and how to use them.
 ---
 
 ## Challenges
+
+I had an issue with over thinking some of the function exercises
