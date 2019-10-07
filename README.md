@@ -6,6 +6,7 @@ I learned what booleans are (true, false), and how to use them.
        buyFood();
   }
   ```
+Also, `else` and `else if`.
 
   ---
 
@@ -21,6 +22,11 @@ I learned what booleans are (true, false), and how to use them.
 
 ---
 
+## Global apps
+I learned how to build a multi function app.
+
+---
+
 ## Challenges
 
-I had an issue with over thinking some of the function exercises
+I had an issue with over thinking some of the function exercises. I also had an issue due to assuming numerical user input was actually treated as numbers by the app, when it is actually taken in as a string. 
